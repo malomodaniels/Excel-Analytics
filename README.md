@@ -7,4 +7,5 @@ Insights about their engagements, most engaged tweets, most time of tweet and ma
 A dashboard was created to aid interpretation of insights obtained after the analysis with the aid of relevant
 Excel charts.
 
-Dataset Used: Twitter Dataset - Nigerian Banks
+Dataset Used: Nigerian Banks Twitter Activity
+Source: Udemy - Tobi Williams
